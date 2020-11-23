@@ -11,7 +11,7 @@ always_allow_html: true
 knitr::opts_chunk$set(echo = FALSE, warning = FALSE, warning = FALSE)
 library(tidyverse)
 library(kableExtra)
-Task_Planner <- read_csv("Task_Planner.csv") %>% dplyr::select(-Notas, -Files, -Subitems, -Checklists, -Comments) %>% rename(Item = Title) %>% mutate(`Fecha de entrega` = lubridate::mdy(`Fecha de entrega`)) %>% arrange(`Fecha de entrega`) %>% mutate(col1 = str_wrap(Item, width = 20, exdent = 2), col1 = str_replace_all(Item, "\n", "<br\\>"))
+Task_Planner <- read_csv("Task_Planner.csv") %>% dplyr::select(-Notas, -Files, -Subitems, -Checklists, -Comments) %>% rename(Item = Title) %>% mutate(`Fecha de entrega` = lubridate::mdy(`Fecha de entrega`)) %>% arrange(`Fecha de entrega`) %>% mutate(Item = str_wrap(Item, width = 20, exdent = 2), Item = str_replace_all(Item, "\n", "<br\\>"))
 ```
 
 # Tareas a realizar y plazos

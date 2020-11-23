@@ -42,12 +42,6 @@ Categoría
 
 </th>
 
-<th style="text-align:left;">
-
-col1
-
-</th>
-
 </tr>
 
 </thead>
@@ -86,19 +80,13 @@ Revisión Inicial
 
 </td>
 
-<td style="text-align:left;">
-
-Seleccion de GCMs
-
-</td>
-
 </tr>
 
 <tr>
 
 <td style="text-align:left;">
 
-Organización Scoping meeting
+Organización Scoping<br> meeting
 
 </td>
 
@@ -123,12 +111,6 @@ Pablo Marquet, Derek Corcoran
 <td style="text-align:left;">
 
 General
-
-</td>
-
-<td style="text-align:left;">
-
-Organización Scoping meeting
 
 </td>
 
@@ -163,12 +145,6 @@ Pablo Marquet, Derek Corcoran
 <td style="text-align:left;">
 
 General
-
-</td>
-
-<td style="text-align:left;">
-
-Planificación
 
 </td>
 
@@ -206,19 +182,13 @@ Revisión Inicial
 
 </td>
 
-<td style="text-align:left;">
-
-Revisión sistemática
-
-</td>
-
 </tr>
 
 <tr>
 
 <td style="text-align:left;">
 
-Modelación de especies de plantas y vertebrados
+Modelación de<br> especies de<br> plantas y<br> vertebrados
 
 </td>
 
@@ -246,19 +216,13 @@ Priorización de conservación
 
 </td>
 
-<td style="text-align:left;">
-
-Modelación de especies de plantas y vertebrados
-
-</td>
-
 </tr>
 
 <tr>
 
 <td style="text-align:left;">
 
-Modelación de especies de plantas y vertebrados
+Modelación de<br> especies de<br> plantas y<br> vertebrados
 
 </td>
 
@@ -286,19 +250,13 @@ Priorización de conservación
 
 </td>
 
-<td style="text-align:left;">
-
-Modelación de especies de plantas y vertebrados
-
-</td>
-
 </tr>
 
 <tr>
 
 <td style="text-align:left;">
 
-Datos descomposición y suelos
+Datos descomposición<br> y suelos
 
 </td>
 
@@ -326,19 +284,13 @@ Ecosistemas
 
 </td>
 
-<td style="text-align:left;">
-
-Datos descomposición y suelos
-
-</td>
-
 </tr>
 
 <tr>
 
 <td style="text-align:left;">
 
-Medidas de biodiversidad en ríos
+Medidas de<br> biodiversidad en<br> ríos
 
 </td>
 
@@ -366,19 +318,13 @@ Biodiversidad de agua dulce
 
 </td>
 
-<td style="text-align:left;">
-
-Medidas de biodiversidad en ríos
-
-</td>
-
 </tr>
 
 <tr>
 
 <td style="text-align:left;">
 
-Entrevista guardaparques
+Entrevista<br> guardaparques
 
 </td>
 
@@ -403,12 +349,6 @@ María José Martínez-Harms
 <td style="text-align:left;">
 
 Socioecología
-
-</td>
-
-<td style="text-align:left;">
-
-Entrevista guardaparques
 
 </td>
 
@@ -446,19 +386,13 @@ Ecosistemas
 
 </td>
 
-<td style="text-align:left;">
-
-M. regimen de fuego
-
-</td>
-
 </tr>
 
 <tr>
 
 <td style="text-align:left;">
 
-Tasas de visitación mediante celulares
+Tasas de visitación<br> mediante celulares
 
 </td>
 
@@ -486,12 +420,6 @@ Socioecología
 
 </td>
 
-<td style="text-align:left;">
-
-Tasas de visitación mediante celulares
-
-</td>
-
 </tr>
 
 <tr>
@@ -526,19 +454,13 @@ Socioecología
 
 </td>
 
-<td style="text-align:left;">
-
-inVEST flickr
-
-</td>
-
 </tr>
 
 <tr>
 
 <td style="text-align:left;">
 
-Systematic conservation Planning
+Systematic<br> conservation<br> Planning
 
 </td>
 
@@ -566,19 +488,13 @@ Priorización de conservación
 
 </td>
 
-<td style="text-align:left;">
-
-Systematic conservation Planning
-
-</td>
-
 </tr>
 
 <tr>
 
 <td style="text-align:left;">
 
-Systematic conservation Planning
+Systematic<br> conservation<br> Planning
 
 </td>
 
@@ -606,19 +522,13 @@ Priorización de conservación
 
 </td>
 
-<td style="text-align:left;">
-
-Systematic conservation Planning
-
-</td>
-
 </tr>
 
 <tr>
 
 <td style="text-align:left;">
 
-Análisis de Servicios ecosistémicos
+Análisis de<br> Servicios<br> ecosistémicos
 
 </td>
 
@@ -646,19 +556,13 @@ Socioecología
 
 </td>
 
-<td style="text-align:left;">
-
-Análisis de Servicios ecosistémicos
-
-</td>
-
 </tr>
 
 <tr>
 
 <td style="text-align:left;">
 
-Modelo Hidrológico VIC
+Modelo Hidrológico<br> VIC
 
 </td>
 
@@ -683,12 +587,6 @@ Sebastian Vicuña
 <td style="text-align:left;">
 
 Hidrología
-
-</td>
-
-<td style="text-align:left;">
-
-Modelo Hidrológico VIC
 
 </td>
 
