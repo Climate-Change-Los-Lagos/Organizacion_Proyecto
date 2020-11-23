@@ -1,0 +1,25 @@
+---
+title: "Climate Change Vulnerability Assessment – Los Lagos Region National Parks, Chile"
+output:
+  bookdown::github_document2:
+    fig_caption: true
+    toc: false
+always_allow_html: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, warning = FALSE)
+library(tidyverse)
+library(kableExtra)
+```
+
+# Table project bla
+
+```{r}
+df <- data.frame(col1 = "Some really long text here. I mean some reeeeeaaly loooong text. So long, it should be wrapped. Really.",
+                 col2 = "* bullet point 1\n * bullet point 2", col3 = "Yes, there is still another column.") %>% mutate(col1 = str_wrap(col1, width = 20, exdent = 2), col1 = str_replace_all(col1, "\n", "<br\\>"))
+
+knitr::kable(df, escape = FALSE)
+
+```
+
