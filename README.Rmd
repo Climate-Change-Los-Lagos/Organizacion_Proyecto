@@ -11,9 +11,20 @@ always_allow_html: true
 knitr::opts_chunk$set(echo = FALSE, warning = FALSE, warning = FALSE)
 library(tidyverse)
 library(kableExtra)
+Task_Planner <- read_csv("Task_Planner.csv") %>% dplyr::select(-Notas, -Files, -Subitems, -Checklists, -Comments) %>% rename(Item = Title) %>% mutate(`Fecha de entrega` = lubridate::mdy(`Fecha de entrega`)) %>% arrange(`Fecha de entrega`) %>% mutate(col1 = str_wrap(Item, width = 20, exdent = 2), col1 = str_replace_all(Item, "\n", "<br\\>"))
 ```
 
-# Table project bla
+# Tareas a realizar y plazos
+
+En la siguiente tabla está el 
+
+```{r}
+knitr::kable(Task_Planner, escape = FALSE)
+```
+
+
+
+# Plazos proyecto 
 
 ```{r}
 df <- data.frame(col1 = "Some really long text here. I mean some reeeeeaaly loooong text. So long, it should be wrapped. Really.",
